@@ -6,7 +6,7 @@ Bem-vindo à Lenord, nesse repositório colocaremos nossa forma de organização
 
 ## Encorajamos
 
-* Uso do github
+* Uso do github(social code)
 * Dúvidas em issues no repositorio prevenda
 * Referências de issues em pr e vice versa
 * Issues com Label exceto `Last day status`
@@ -19,6 +19,10 @@ Sempre estamos focando nas tecnologias para resolver problemas nossos e dos noss
 
 Queremos pessoas que querem crescer com a empresa
 
+# Infraestrutura
+
+Utilizamos aws
+
 # Projetos
 
 Atualmente estamos com 6 projetos e 4 em andamento
@@ -29,21 +33,60 @@ Atualmente estamos com 6 projetos e 4 em andamento
 
 projeto em ionic2 para a loja conceito
 
+Stack:
+
+* Ionic2
+* Rxjs
+
+
 ### Web
 
 interface do admin para gerenciamento da plataforma
+
+Stack:
+
+* Nodejs
+* MarkoJS
+* LassoJS
+* Web APIs
 
 ### Api
 
 api centralizada para comunicação entre as aplicações
 
+Stack:
+
+* Rails
+* Mysql
+
 ### bot
 
 bot para integraçóes com outras plataformas
 
-## Para entrar
+Stack:
+
+* Nodejs
+* Integração com pdvnet
+
+## Projetos Para entrar
 
 ### Condominio
 
+Aberto para sugestoões
+
 ### ERP
+
+Aberto para sugestoẽs
+
+# Observações
+
+* Qualquer duvica crie uma issue
+* Melhorias para este readme sao bem vindas
+* Criticas tambem são sempre bem vindas :smile:
+
+Obrigado por ler até aqui. Se ainda não foi adicionado ao slack solicite via rh@lenord.com.br com o titulo "Estava lendo o readme"
+
+Abraços.
+
+*sugestoẽs: rh@lenord.com.br ou issue*
 
