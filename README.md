@@ -6,12 +6,12 @@ Bem-vindo à Lenord, nesse repositório colocaremos nossa forma de organização
 
 ## Encorajamos
 
-* uso do github
-* duvidas em issues no repositorio prevenda
-* referencias de issues em pr e vice versa
-* issues com label exceto `Last day status`
+* Uso do github
+* Dúvidas em issues no repositorio prevenda
+* Referências de issues em pr e vice versa
+* Issues com Label exceto `Last day status`
 
-# Disclaimer
+# Aviso
 
 Aqui na lenord não somos donos da verdade nem sabemos de tudo, acreditamos em compartilhamento de conhecimento para um crescimento pessoal e profissional.
 
