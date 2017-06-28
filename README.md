@@ -139,6 +139,8 @@ Aberto para sugestoẽs
 * Melhorias para este readme sao bem vindas
 * Criticas tambem são sempre bem vindas :smile:
 
+[Como começo a Programar?](https://github.com/lenordteam/hello_world/wiki/Como-come%C3%A7o-a-Programar%3F)
+
 Obrigado por ler até aqui. Se ainda não foi adicionado ao slack solicite via rh@lenord.com.br com o titulo "Estava lendo o readme"
 
 Abraços.
