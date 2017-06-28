@@ -54,7 +54,8 @@ Para solicitar ajuda de outro DEV ou Regra de Negócio, será respondido/auxilia
 Quando há alguma dúvida referente a programação ou Regra de Negócio e precisa de uma resposta.
 
 - I3 Aberto a Análises
-Esta label informa que pode ser feito a análise de tempo estimado para resolução da Issue, se a Issue não tiver essa Label é porque já tem Dev's o suficiente fazendo/fizeram a análise e já está em Andamento.Filtre por este Status para saber as Issues em que precisamos de sua Análise para Trabalhar. Exemplo de Comentário que pode ser inserido na Análise : Adicionar Imagem de Fundo na tela Inicial do APP / Tempo Estimado : 15 Minutos.
+Esta label informa que pode ser feito a análise de tempo estimado para resolução da Issue, se a Issue não tiver essa Label é porque já tem Dev's o suficiente fazendo/fizeram a análise e já está em Andamento.Filtre por este Status para saber as Issues em que precisamos de sua Análise para Trabalhar. 
+Exemplo de Comentário que pode ser inserido na Análise : Adicionar Imagem de Fundo na tela Inicial do APP / Tempo Estimado : 15 Minutos.
 
 - I4 Análise
 Esta Label é para os programadores informarem o tempo estimado para resolução da Issue. Deixa como Assign para informar que já está na Issue para evitar retrabalho.
